@@ -6,6 +6,7 @@
 
 import pandas as pd
 import numpy as np
+import statsmodels.api as sm
 from prophet import Prophet
 from pylab import rcParams
 import pickle
