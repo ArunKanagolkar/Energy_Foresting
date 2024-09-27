@@ -3,4 +3,4 @@ scikit-learn
 numpy
 woe-scoring
 statsmodels
-
+prophet
